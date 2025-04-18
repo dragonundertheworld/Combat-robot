@@ -1,4 +1,5 @@
 # Eternity Fighting Robot Design
+Project details can be found in [notion link](https://cherry-room-163.notion.site/0f15df8a2a594116ac27361bd8c10d9d?pvs=4)
 
 A comprehensive design for a 1v1 “Eternity” fighting robot developed by the University of Electronic Science and Technology of China. This project covers mechanical architecture, drive and attack systems, electronics & control, innovative features, and iterative testing & optimization.
 
